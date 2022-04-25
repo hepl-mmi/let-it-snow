@@ -10,10 +10,9 @@
 
 * * *
 
-
+Vous pouvez consulter une version finale du projet [ici](https://hepl-mmi.github.io/let-it-snow/).
 
 Dans le cadre de cet exercice, on vous demande de reproduire une neige qui tombe.
-
 
 
 1. Mettez à jour les dimensions du canvas, dynamiquement à partir des dimensions de la fenêtre du navigateur.
